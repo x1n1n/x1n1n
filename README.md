@@ -1,6 +1,6 @@
 <h2 align="center"> 👋 Hi, I'm x1n1n 👋 </a> </h2> 
 <p align="center">
-   The purpose of learning is growth, and our mind, unlike our body, can continue to grow as long as we continue to live.</p>
+   May you be doing well on your side of the screen.</p>
 <p align="center">(Mortimer J. Adler)</p>
 
 
