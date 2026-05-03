@@ -1,4 +1,4 @@
-<h2 align="center"> 👋 Hi, I'm x1n1n 👋 </a> </h2> 
+<h2 align="center"> 👋 Hi, I'm ethan 👋 </a> </h2> 
 <p align="center">
    May you be doing well on your side of the screen.</p>
 <p align="center">(Mortimer J. Adler)</p>
