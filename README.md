@@ -8,4 +8,4 @@
   <li><b>Twitter: </b> <a href="https://twitter.com/x1n1n" target="_blank">@x1n1n</a></li>
   <li><b>Linkedin: </b> <a href="https://www.linkedin.com/in/ethanabrahams" target="_blank">https://www.linkedin.com/in/ethanabrahams</a></li>
 </ul>
-<img src="s.mp4" alt="emoji gif" width="80">
+<img src="s.gif" alt="emoji gif" width="80">
